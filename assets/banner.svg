@@ -1,86 +1,35 @@
-<svg width="1600" height="450" viewBox="0 0 1600 450" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#312e81"/>
+    </linearGradient>
+  </defs>
 
-<defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
 
-<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-<stop offset="0%" stop-color="#050816"/>
-<stop offset="100%" stop-color="#1b1245"/>
-</linearGradient>
+  <text x="600" y="120"
+        text-anchor="middle"
+        font-size="48"
+        fill="white"
+        font-family="Arial"
+        font-weight="bold">
+        Chirag Dixit
+  </text>
 
-<linearGradient id="glow" x1="0%" y1="0%" x2="100%">
-<stop offset="0%" stop-color="#00E5FF"/>
-<stop offset="100%" stop-color="#8A2BE2"/>
-</linearGradient>
+  <text x="600" y="170"
+        text-anchor="middle"
+        font-size="26"
+        fill="#38bdf8"
+        font-family="Arial">
+        Software Engineer • AI & Machine Learning Engineer
+  </text>
 
-<filter id="shadow">
-<feGaussianBlur stdDeviation="8"/>
-</filter>
-
-</defs>
-
-<rect width="1600" height="450" fill="url(#bg)"/>
-
-<circle cx="250" cy="120" r="120" fill="#00E5FF" opacity=".12"/>
-<circle cx="1350" cy="320" r="150" fill="#8A2BE2" opacity=".12"/>
-
-<line x1="0" y1="80" x2="1600" y2="80" stroke="url(#glow)" stroke-width="2" opacity=".5"/>
-<line x1="0" y1="370" x2="1600" y2="370" stroke="url(#glow)" stroke-width="2" opacity=".5"/>
-
-<text x="800"
-y="170"
-font-size="58"
-font-family="Segoe UI"
-fill="white"
-font-weight="700"
-text-anchor="middle">
-
-CHIRAG DIXIT
-
-</text>
-
-<text x="800"
-y="235"
-font-size="30"
-font-family="Segoe UI"
-fill="#00E5FF"
-text-anchor="middle">
-
-Software Engineer • AI & Machine Learning Engineer
-
-</text>
-
-<text x="800"
-y="285"
-font-size="22"
-font-family="Segoe UI"
-fill="#cccccc"
-text-anchor="middle">
-
-Python • Machine Learning • Data Analytics • React
-
-</text>
-
-<rect
-x="560"
-y="315"
-rx="18"
-ry="18"
-width="480"
-height="55"
-fill="none"
-stroke="url(#glow)"
-stroke-width="2"/>
-
-<text
-x="800"
-y="350"
-font-size="22"
-fill="white"
-font-family="Segoe UI"
-text-anchor="middle">
-
-Building Intelligent Solutions 🚀
-
-</text>
-
+  <text x="600" y="215"
+        text-anchor="middle"
+        font-size="18"
+        fill="#d1d5db"
+        font-family="Arial">
+        Python • Machine Learning • Data Analytics • React
+  </text>
 </svg>
