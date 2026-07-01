@@ -148,9 +148,9 @@ I'm **Chirag Dixit**, an aspiring AI & Machine Learning Engineer with a passion 
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chiragdixit13&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chiragdixit13&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragdixit13&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragdixit13&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </p>
 
@@ -164,9 +164,7 @@ I'm **Chirag Dixit**, an aspiring AI & Machine Learning Engineer with a passion 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chiragdixit13&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=chiragdixit13&theme=tokyonight&no-frame=true&margin-w=15" />
 
 # 📊 Contribution Graph
 
@@ -184,6 +182,9 @@ I'm **Chirag Dixit**, an aspiring AI & Machine Learning Engineer with a passion 
 <img src="./images/student-performance.png" width="800"/>
 
 Machine Learning model to predict student marks using Linear Regression.
+⭐ **Repository**
+
+[Open Project](https://github.com/chiragdixit13/Student-Performance-Prediction-ML)
 
 ---
 
@@ -192,6 +193,9 @@ Machine Learning model to predict student marks using Linear Regression.
 <img src="./images/loan-approval.png" width="800"/>
 
 Decision Tree model for loan approval prediction.
+⭐ **Repository**
+
+[Open Project](https://github.com/chiragdixit13/Loan-Approval-Prediction)
 
 ---
 
@@ -200,6 +204,9 @@ Decision Tree model for loan approval prediction.
 <img src="./images/house-price.png" width="800"/>
 
 Predict house prices using Machine Learning.
+⭐ **Repository**
+
+[Open Project](https://github.com/chiragdixit13/House-Price-Prediction)
 
 ---
 
@@ -208,6 +215,9 @@ Predict house prices using Machine Learning.
 <img src="./images/titanic-survival.png" width="800"/>
 
 Predict Titanic passenger survival using classification models.
+⭐ **Repository**
+
+[Open Project](https://github.com/chiragdixit13/Titanic-Survival-Prediction-ML)
 
 ## 📊 Sales Data Analysis Dashboard
 
@@ -339,7 +349,7 @@ Desktop application developed using Java.
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com/in/chiragdixit13">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
