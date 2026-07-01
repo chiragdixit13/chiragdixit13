@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Cyber AI Banner">
+  <img src="./assets/banner.jpg" width="100%" alt="Cyber AI Banner">
 </p>
 <h2 align="center">
   👋 Welcome to my GitHub Profile!
@@ -48,53 +48,8 @@
 ---
 
 # 🚀 About Me
-```python
-class ChiragDixit:
 
-    def __init__(self):
-        self.name = "Chirag Dixit"
-        self.role = "Aspiring AI & Machine Learning Engineer"
-
-        self.education = "B.Tech Computer Science & Engineering"
-
-        self.languages = [
-            "Python",
-            "Java",
-            "JavaScript"
-        ]
-
-        self.web_development = [
-            "HTML",
-            "CSS",
-            "React.js"
-        ]
-
-        self.machine_learning = [
-            "Scikit-Learn",
-            "NumPy",
-            "Pandas",
-            "Matplotlib",
-            "Seaborn"
-        ]
-
-        self.currently_learning = [
-            "Deep Learning",
-            "TensorFlow",
-            "PyTorch",
-            "Generative AI"
-        ]
-
-        self.interests = [
-            "Machine Learning",
-            "Data Science",
-            "Open Source",
-            "Artificial Intelligence"
-        ]
-
-    def motto(self):
-        return "Build • Learn • Innovate 🚀"
-```
----
+I'm **Chirag Dixit**, an aspiring AI & Machine Learning Engineer with a passion for solving real-world problems through technology. I enjoy transforming ideas into practical solutions, continuously learning, and building projects that create meaningful impact.
 
 ## 💫 A Little About Me
 
