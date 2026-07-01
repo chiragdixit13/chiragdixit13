@@ -340,13 +340,11 @@ Desktop application developed using Java.
 
 ---
 
-# 🐍 Contribution Snake
 
-> The animation will appear after we configure the GitHub Action in a later step.
+## 🐍 Contribution Snake
 
-```html
 <p align="center">
-<img src="https://raw.githubusercontent.com/chiragdixit13/chiragdixit13/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/chiragdixit13/chiragdixit13/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 ```
 
