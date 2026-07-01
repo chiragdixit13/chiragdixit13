@@ -14,7 +14,6 @@
 <p align="center">
 💻 Turning ideas into intelligent solutions with AI, Machine Learning, and Software Development.
 </p>
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Chirag Dixit
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Aspiring+AI+%26+Machine+Learning+Engineer;Python+Developer;Data+Analytics+Enthusiast;Open+Source+Learner;Building+Intelligent+Solutions"/>
 
