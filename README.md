@@ -258,7 +258,7 @@ Desktop application developed using Java.
 
 ⭐ **Repository**
 
-[Open Project](YOUR_REPOSITORY_LINK)
+[Open Project](https://github.com/chiragdixit13/JAVA)
 
 </td>
 
