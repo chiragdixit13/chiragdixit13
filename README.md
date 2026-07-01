@@ -188,3 +188,206 @@ class ChiragDixit:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chiragdixit13&theme=tokyo-night"/>
 
 </p>
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🎓 Student Performance Prediction
+
+A Machine Learning project to predict student performance using Python and Scikit-Learn.
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn)
+
+⭐ **Repository**
+
+[Open Project](YOUR_REPOSITORY_LINK)
+
+</td>
+
+<td width="50%">
+
+## 🏦 Loan Approval Prediction
+
+Machine Learning classification model for predicting loan approvals.
+
+**Tech Stack**
+
+Python • Pandas • NumPy • Scikit-Learn
+
+⭐ **Repository**
+
+[Open Project](YOUR_REPOSITORY_LINK)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📊 Sales Data Analysis Dashboard
+
+Visualized business insights using Python.
+
+**Libraries**
+
+- Pandas
+- Matplotlib
+- Seaborn
+
+⭐ **Repository**
+
+[Open Project](YOUR_REPOSITORY_LINK)
+
+</td>
+
+<td width="50%">
+
+## 🌦 Weather Data Visualization
+
+Data visualization project for weather analysis.
+
+⭐ **Repository**
+
+[Open Project](YOUR_REPOSITORY_LINK)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🛒 E-Commerce Web Application
+
+React based shopping platform.
+
+**Tech Stack**
+
+React
+
+JavaScript
+
+HTML
+
+CSS
+
+MySQL
+
+⭐ **Repository**
+
+[Open Project](YOUR_REPOSITORY_LINK)
+
+</td>
+
+<td width="50%">
+
+## 📚 Smart Library Management System
+
+Desktop application developed using Java.
+
+⭐ **Repository**
+
+[Open Project](YOUR_REPOSITORY_LINK)
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🌱 Currently Learning
+
+```text
+███████████████░░░░░░░  Machine Learning
+
+███████████░░░░░░░░░░░  Deep Learning
+
+████████░░░░░░░░░░░░░░ TensorFlow
+
+███████░░░░░░░░░░░░░░░ PyTorch
+
+█████░░░░░░░░░░░░░░░░░ Generative AI
+```
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Python
+- ✅ Build AI Projects
+- ⏳ Learn Deep Learning
+- ⏳ Learn TensorFlow
+- ⏳ Learn PyTorch
+- ⏳ Contribute to Open Source
+- ⏳ Crack an AI/ML Engineer role
+
+---
+
+# 🐍 Contribution Snake
+
+> The animation will appear after we configure the GitHub Action in a later step.
+
+```html
+<p align="center">
+<img src="https://raw.githubusercontent.com/chiragdixit13/chiragdixit13/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+```
+
+---
+
+# 🌍 3D Contribution Calendar
+
+> This section will become active after we add the workflow.
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/chiragdixit13">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:chiragdixit320@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Favorite Quote
+
+> **"The best way to predict the future is to build it."**
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+If you like my work, don't forget to ⭐ my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:8A2BE2&height=120&section=footer"/>
+
+</div>
