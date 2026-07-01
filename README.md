@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="./assets/banner.jpg" width="100%" alt="Cyber AI Banner">
+  <img src="./assets/banner.png" width="100%" alt="Cyber AI Banner">
 </p>
 <h2 align="center">
   👋 Welcome to my GitHub Profile!
