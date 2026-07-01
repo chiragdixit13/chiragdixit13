@@ -192,51 +192,37 @@ class ChiragDixit:
 </p>
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-<table>
-<tr>
+### 🎓 Student Performance Prediction
 
-<td width="50%">
+<img src="./images/student-performance.png" width="800"/>
 
-## 🎓 Student Performance Prediction
+Machine Learning model to predict student marks using Linear Regression.
 
-A Machine Learning project to predict student performance using Python and Scikit-Learn.
+---
 
-**Tech Stack**
+### 🏦 Loan Approval Prediction
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn)
+<img src="./images/loan-approval.png" width="800"/>
 
-⭐ **Repository**
+Decision Tree model for loan approval prediction.
 
-[Open Project](YOUR_REPOSITORY_LINK)
+---
 
-</td>
+### 🏠 House Price Prediction
 
-<td width="50%">
+<img src="./images/house-price.png" width="800"/>
 
-## 🏦 Loan Approval Prediction
+Predict house prices using Machine Learning.
 
-Machine Learning classification model for predicting loan approvals.
+---
 
-**Tech Stack**
+### 🚢 Titanic Survival Prediction
 
-Python • Pandas • NumPy • Scikit-Learn
+<img src="./images/titanic-survival.png" width="800"/>
 
-⭐ **Repository**
-
-[Open Project](YOUR_REPOSITORY_LINK)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
+Predict Titanic passenger survival using classification models.
 
 ## 📊 Sales Data Analysis Dashboard
 
