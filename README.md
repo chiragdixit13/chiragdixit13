@@ -144,31 +144,10 @@ I'm **Chirag Dixit**, an aspiring AI & Machine Learning Engineer with a passion 
 
 ---
 
-# 📈 GitHub Analytics
+## 📌 Profile Summary
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chiragdixit13&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragdixit13&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chiragdixit13&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chiragdixit13&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chiragdixit13&theme=tokyo-night" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chiragdixit13&theme=tokyonight" />
 </p>
 
 ## 🚀 Featured Projects
