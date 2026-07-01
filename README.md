@@ -39,17 +39,14 @@
 ---
 
 # 🚀 About Me
-
 ```python
 class ChiragDixit:
 
     def __init__(self):
-
         self.name = "Chirag Dixit"
+        self.role = "Aspiring AI & Machine Learning Engineer"
 
-        self.role = "Software Engineer"
-
-        self.goal = "AI & Machine Learning Engineer"
+        self.education = "B.Tech Computer Science & Engineering"
 
         self.languages = [
             "Python",
@@ -57,31 +54,37 @@ class ChiragDixit:
             "JavaScript"
         ]
 
-        self.web = [
+        self.web_development = [
             "HTML",
             "CSS",
-            "React"
+            "React.js"
         ]
 
-        self.ml = [
+        self.machine_learning = [
+            "Scikit-Learn",
             "NumPy",
             "Pandas",
             "Matplotlib",
-            "Seaborn",
-            "Scikit-Learn"
+            "Seaborn"
         ]
 
-        self.learning = [
+        self.currently_learning = [
             "Deep Learning",
             "TensorFlow",
             "PyTorch",
             "Generative AI"
         ]
 
-    def motto(self):
-        return "Code • Learn • Build • Repeat 🚀"
-```
+        self.interests = [
+            "Machine Learning",
+            "Data Science",
+            "Open Source",
+            "Artificial Intelligence"
+        ]
 
+    def motto(self):
+        return "Build • Learn • Innovate 🚀"
+```
 ---
 
 ## 💫 A Little About Me
