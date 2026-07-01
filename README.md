@@ -3,7 +3,17 @@
 <p align="center">
   <img src="./assets/banner.svg" width="100%" alt="Cyber AI Banner">
 </p>
+<h2 align="center">
+  👋 Welcome to my GitHub Profile!
+</h2>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+AI+%26+Machine+Learning+Engineer;Python+Developer;Building+Real-World+Machine+Learning+Projects;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+💻 Turning ideas into intelligent solutions with AI, Machine Learning, and Software Development.
+</p>
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Chirag Dixit
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Aspiring+AI+%26+Machine+Learning+Engineer;Python+Developer;Data+Analytics+Enthusiast;Open+Source+Learner;Building+Intelligent+Solutions"/>
@@ -99,6 +109,28 @@ class ChiragDixit:
 - 📚 Love learning new technologies every day
 
 ---
+## 🌱 Currently Working On
+
+<table>
+<tr>
+<td>
+
+- 🤖 Deep Learning
+- 🧠 TensorFlow
+- 🔥 PyTorch
+- 🎨 Generative AI
+
+</td>
+<td>
+
+- 📊 Machine Learning Projects
+- 💻 Python Development
+- 🚀 DSA Practice
+- 🌍 Open Source Contributions
+
+</td>
+</tr>
+</table>
 
 # 💻 Tech Stack
 
@@ -175,13 +207,12 @@ class ChiragDixit:
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chiragdixit13&theme=radical&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=chiragdixit13&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
----
+
 
 # 📊 Contribution Graph
 
