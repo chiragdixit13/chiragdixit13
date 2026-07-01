@@ -332,7 +332,7 @@ Desktop application developed using Java.
 <p align="center">
   <img src="https://raw.githubusercontent.com/chiragdixit13/chiragdixit13/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-```
+
 
 ---
 
